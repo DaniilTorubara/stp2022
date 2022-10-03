@@ -39,3 +39,4 @@ def quick_sort(array, start, end):
 
 quick_sort(stack, 0, len(stack) - 1)
 print(stack)
+

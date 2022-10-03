@@ -1,6 +1,7 @@
 import os, glob
 import random
 
+#Торубара Даниил, 922403
 # C:\Users\User\Desktop\Песни
 
 class Crawler:
